@@ -10,6 +10,13 @@ def main() :
         numero2 = numero1 + numero2
         numero1 = numtemp
         print(numero2)
+        print("Hello je m'en fous de ce que tu dis")
+<<<<<<< HEAD
 print("tg charly")
+=======
+
+    
+
+>>>>>>> ca2415dd3e086454d8af547f4c036de5a477e196
 
 main()
