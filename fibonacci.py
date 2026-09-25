@@ -11,5 +11,7 @@ def main() :
         numero1 = numtemp
         print(numero2)
 
+    print("Hello je m'en fous de ce que tu dis")
+
 
 main()
