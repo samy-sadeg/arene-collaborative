@@ -1,4 +1,4 @@
 # ApprentissageGit
 
 
-Projet pour Xavier
+Projet pour apprendre git
